@@ -1,4 +1,6 @@
 # Malicious-extensions
+ In my pc i didn't find any malicious extensions.
+ 
 Here are some examples of harmful browser extensions that have actively compromised user privacy and security in recent years:
 
 ### Notorious Harmful Extensions
